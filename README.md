@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/eca725bb-7564-4b8a-a25e-c20636f85868)
+
 
 ## Getting Started
 
